@@ -1,0 +1,2 @@
+A block is a set of statements written within a pair of left and right curly brackets.
+The break statement terminates the execution of a block within which it is present. 
