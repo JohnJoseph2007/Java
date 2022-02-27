@@ -1,6 +1,6 @@
 package FinalPrep2022;
 import java.util.*;
-public class loop1 {
+public class sumandproduct {
     public static void main(String[] args) {
         // WAP to input 10 numbers print their sum and product.
         Scanner obj = new Scanner(System.in);

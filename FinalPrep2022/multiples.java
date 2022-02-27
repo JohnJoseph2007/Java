@@ -1,6 +1,6 @@
 package FinalPrep2022;
 import java.util.*;
-public class loop3 {
+public class multiples {
     public static void main(String[] args) {
         //WAP to input a number and print its first 10 multiples.
         Scanner obj = new Scanner(System.in);

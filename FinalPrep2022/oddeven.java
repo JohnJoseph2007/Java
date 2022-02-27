@@ -1,6 +1,6 @@
 package FinalPrep2022;
 import java.util.*;
-public class loop2 {
+public class oddeven {
     public static void main(String[] args) {
         //WAP to input 10 numbers print the sum of odd and even numbers separately.
         Scanner obj = new Scanner(System.in);
