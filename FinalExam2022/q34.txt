@@ -1,0 +1,25 @@
+3 a) 
+if(A+B>C*D){
+    System.out.println("Yes greater");
+} else {
+    System.out.println("No lesser");
+}
+
+b) double a = (0.05-(2*Math.pow(y,3)))/(x-y)
+
+c) double a = Math.sqrt((2*a*s)+(u*u));
+
+d) char a = obj.nextLine();
+
+e) import java.util.Scanner;
+
+4 a) 
+if x!=(y+30){
+    System.out.print(x);
+} else if(x>0){
+    System.out.print(x);
+}
+
+c) int Scanner = 56;
+
+e) String p = "jack";
