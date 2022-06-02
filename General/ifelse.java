@@ -1,3 +1,4 @@
+package General;
 public class ifelse {
     public static void main(String[] args) {
         int ambience=8, luxurious=7;

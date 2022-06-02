@@ -1,3 +1,4 @@
+package General;
 class switchques {
     public static void main(String[] args) {
         String name = "Trisha";

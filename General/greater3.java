@@ -1,3 +1,4 @@
+package General;
 import java.lang.Math;
 public class greater3 {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package General;
 import java.util.Scanner;
 class terminate0 {
     public static void main(String[] args) {

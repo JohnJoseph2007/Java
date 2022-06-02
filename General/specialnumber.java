@@ -1,3 +1,4 @@
+package General;
 import java.util.*;
 class SpecialNumber {
     public static void main(String[] args){
@@ -20,6 +21,8 @@ class SpecialNumber {
         if(sums==n){
             System.out.println(n + " is a special number.");
         } else {
+         
+         
             System.out.println(n + " is not a special number.");
         }
         obj.close();

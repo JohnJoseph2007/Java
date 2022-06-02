@@ -1,3 +1,4 @@
+package General;
 import java.util.Scanner;
 class java_questions {
     public static void main(String[] args) {
@@ -26,6 +27,8 @@ class java_questions {
         System.out.println ("Circumference : "+circumference);
 
         //Question 4
+
+        obj.close();
         
     }
 }

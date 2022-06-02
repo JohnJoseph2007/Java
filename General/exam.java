@@ -1,3 +1,4 @@
+package General;
 class exam
 {
     public static void main(String args[])

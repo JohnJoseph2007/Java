@@ -1,3 +1,4 @@
+package General;
 class javatest
 {
     public static void main()

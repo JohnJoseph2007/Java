@@ -1,3 +1,4 @@
+package General;
 import java.util.*;
 class switchstatement {
     public static void main(String[] args){

@@ -1,3 +1,4 @@
+package General;
 class Whiletofor4 {
     public static void main(String[] args) {
         // Question 4:
