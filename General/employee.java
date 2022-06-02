@@ -1,4 +1,3 @@
-package General;
 import java.util.*;
 class Employee {
     public static void main(String[] args) {

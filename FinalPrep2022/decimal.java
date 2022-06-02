@@ -1,4 +1,3 @@
-package FinalPrep2022;
 import java.util.*;
 class decimal{
     public static void main(String args[]){

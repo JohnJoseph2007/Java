@@ -1,4 +1,3 @@
-package General;
 public class swayam {
     public static void main(String[] args) {
         int i = 1;

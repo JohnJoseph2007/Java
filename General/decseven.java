@@ -1,4 +1,3 @@
-package General;
 class decseven
 {
     public static void main(String args[])

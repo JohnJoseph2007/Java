@@ -1,4 +1,3 @@
-package FinalPrep2022;
 import java.util.*;
 public class multiples {
     public static void main(String[] args) {

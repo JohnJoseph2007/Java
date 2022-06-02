@@ -1,4 +1,3 @@
-package General;
 class tests
 {
     public static void main(String[] args) {

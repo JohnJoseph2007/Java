@@ -1,5 +1,4 @@
-package FinalExam2022;
-import java.util.Scanner;
+import java.util.*;
 public class triangle {
     public static void main(String[] args) {
         //Question 7a:

@@ -1,4 +1,3 @@
-package FinalPrep2022;
 import java.util.*;
 public class amicable {
     public static void main(String[] args) {

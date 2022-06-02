@@ -1,4 +1,3 @@
-package General;
 class info
 {
     public static void main(String[] args)

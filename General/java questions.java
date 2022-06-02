@@ -1,4 +1,3 @@
-package General;
 import java.util.Scanner;
 class java_questions {
     public static void main(String[] args) {

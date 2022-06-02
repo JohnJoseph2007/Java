@@ -1,5 +1,3 @@
-package FinalExam2022;
-
 public class dryrunmeethi2 {
     public static void main(String[] args) {
         int a = 27;

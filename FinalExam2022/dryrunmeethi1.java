@@ -1,5 +1,3 @@
-package FinalExam2022;
-
 public class dryrunmeethi1 {
     public static void main(String[] args) {
         double basic=500.0;

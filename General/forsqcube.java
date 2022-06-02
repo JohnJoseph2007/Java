@@ -1,4 +1,3 @@
-package General;
 //WAP to input a number and display the sum of all odd numbers (which should be squared) and the sum all even numbers (which should be cubed).
 import java.util.Scanner;
 public class forsqcube {

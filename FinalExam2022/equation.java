@@ -1,5 +1,3 @@
-package FinalExam2022;
-
 public class equation {
     public static void main(String[] args) {
         double x = 7.89, y=8.90;

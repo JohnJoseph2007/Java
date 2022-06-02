@@ -1,4 +1,3 @@
-package General;
 import java.util.*;
 class Javas
 {

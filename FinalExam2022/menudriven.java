@@ -1,4 +1,3 @@
-package FinalExam2022;
 import java.util.*;
 public class menudriven {
     public static void main(String[] args) {

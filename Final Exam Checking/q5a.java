@@ -8,5 +8,7 @@ public class q5a {
         s3=obj.nextInt();
         double sp=(s1+s2+s3)/2;
         double a=Math.sqrt(sp*(sp-s1)*(sp-s2)*(sp-s3));
+        System.out.println(a);
+        obj.close();
     }
 }
