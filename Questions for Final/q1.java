@@ -28,5 +28,6 @@ class q1 {
 
         System.out.println("Highest number : " + h);
         System.out.println("Lowest number : " + l);
+        obj.close();
     }
 }

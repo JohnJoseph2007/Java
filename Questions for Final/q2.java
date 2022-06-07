@@ -13,5 +13,6 @@ class q2 {
         } else {
             System.out.println("Number is not a buzz number");
         }
+        obj.close();
     }
 }

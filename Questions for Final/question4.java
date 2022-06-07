@@ -7,7 +7,7 @@
 //else : pair of pens worth 150/-
 
 import java.util.*;
-class q4 {
+class question4 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         int puramt;
@@ -24,5 +24,6 @@ class q4 {
         } else {
             System.out.println("You won a pair of pens worth 150/-");
         }
+        obj.close();
     }
 }

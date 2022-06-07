@@ -27,5 +27,7 @@ class q5 {
 
        double dt=t-((d/100)*t);
        System.out.println("Total cost is : " + dt);
+
+       obj.close();
    } 
 }

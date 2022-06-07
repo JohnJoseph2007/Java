@@ -4,7 +4,7 @@
 //base<=20000, then HRA is 10% of the base. DA is 107% of the base.
 
 import java.util.*;
-class q3 {
+class question3 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         double base, hra, da, total;
@@ -22,5 +22,6 @@ class q3 {
         System.out.println("House Rent Allowance (HRA) is : " + hra);
         System.out.println("Dearness Allowance (DA) is : " + da);
         System.out.println("Total Salary is : " + total);
+        obj.close();
     }
 }

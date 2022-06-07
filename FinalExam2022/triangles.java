@@ -1,5 +1,5 @@
 import java.util.*;
-public class triangle {
+public class triangles {
     public static void main(String[] args) {
         //Question 7a:
         Scanner obj = new Scanner(System.in);
