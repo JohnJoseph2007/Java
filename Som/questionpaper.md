@@ -13,3 +13,5 @@ Question 2 : Write a program that satisfies the following conditions:
     - Print the cube of the number
 - Else:
     - Print "The number is not a multiple of 5 or 7"
+
+Question 3 : 

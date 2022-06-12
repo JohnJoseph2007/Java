@@ -2,9 +2,7 @@ import java.util.*;
 public class ShowRoom {
     String name;
     long mobno;
-    double cost;
-    double dis;
-    double amount;
+    double cost, dis, amount;
 
     public void input() {
         Scanner sc = new Scanner(System.in);
@@ -12,7 +10,6 @@ public class ShowRoom {
         name = sc.nextLine();
         mobno = sc.nextLong();
         cost = sc.nextDouble();
-        System.out.println("===============================================");
         sc.close();
     }
 

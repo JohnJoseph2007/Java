@@ -2,9 +2,10 @@ package BankAccount;
 public class Check {
     public static void main(String[] args) {
         Account obj = new Account();
-        obj.start();
-        obj.deposit();
-        obj.withdraw();
+        int a=10000;
+        obj.start(a);
+        obj.deposit(a);
+        obj.withdraw(a);
         obj.currentbalance();
     }
 }
